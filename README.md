@@ -8,6 +8,7 @@ Hice una recreacion del exterior de la taberna de Moe usando HTML y CSS ,además
 * [Porfolio web](https://midominio.es/)
 
 ## Ver ejemplo en vivo
+- [https://viteripro.github.io/Taberna-moe/]
 
 ## Instalación
 Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
