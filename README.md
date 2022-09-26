@@ -1,7 +1,5 @@
 ## Descripción
-En esta página se puede ver una pagina encargada de vender articlos de diseños es camisas vasos y otras cosas
-y me he encargado de agregarle media querys para que esta pagina sea resposive y se pueda ver correctamente en
-distintos dispositivos
+Hice una recreacion del exterior de la taberna de Moe usando HTML y CSS ,además, hice que se sea responsive para que se pueda visualizar en distintos dispositivos y le agrege un mensaje oculto cuando se este visualizando en dispositivos como una tablet o celular
  
 ## Autor
 **Luis Viteri**
